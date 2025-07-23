@@ -1,5 +1,5 @@
 Esercizio 3
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  <br>
 Stai sviluppando un piccolo sito d’annunci. In questo sito, un utente registrato ha la possibilita' di inserire un prodotto da vendere. <br>
 Ogni annuncio sara' di una categoria specifica. Alcuni utenti hanno come ruolo “revisore“, ovvero hanno il potere di accettare o rifiutare un annuncio. <br>
 Considera quindi nel database: <br>
