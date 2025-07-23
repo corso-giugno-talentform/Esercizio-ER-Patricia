@@ -1,4 +1,4 @@
 # Esercizio-ER-Patricia
 
-<img width="1087" height="553" alt="image" src="https://github.com/user-attachments/assets/e27322e8-31d2-4c1a-9b6a-a7dfcb053070" />
+<img width="1191" height="661" alt="image" src="https://github.com/user-attachments/assets/30058d26-0b07-4c83-b814-a6183e6c1469" />
 
