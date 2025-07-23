@@ -1,3 +1,5 @@
+<h1>Social Media - Esercizio 2</h1>
+
 Stai sviluppando un piccolo social network, dove gli utenti registrati possono pubblicare post e mettere mi piace a quelli degli altri.
 
 Considera quindi nel database:
